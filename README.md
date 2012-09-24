@@ -30,9 +30,10 @@ Files regarding my personal website www.skykog.com
 
 
 ##Requirements :##
-Chrome,Firefox,IE9+,Support for running scripts
+Chrome, Firefox, IE9+<br>
+Support for running scripts
 
 
 ##License :##
-<small>Copyright © 2012 Akash Devaraju akashdevaraju@gmail.com
+<small>Copyright © 2012 Akash Devaraju akashdevaraju@gmail.com <br>
 Available under GNU General Public License version 3</small>
