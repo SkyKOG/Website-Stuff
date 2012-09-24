@@ -6,8 +6,8 @@ Files regarding my personal website www.skykog.com
 ##Done :##
 -Base layout <br>
 -CSS and JS fixes <br> 
--happy with the layout :) ...<br>
--Moved the image store from local to minus(bandwidth considerations) thnx Strider<br>
+-Happy with the layout :) ...<br>
+-Moved the image store from local to minus.com(bandwidth considerations) thnx Strider<br>
 -CSS based portfolio menu and interactive gallery<br>
 
 
@@ -25,7 +25,7 @@ Files regarding my personal website www.skykog.com
 
 ##Issues :##
 -Image resize dosent work in Chrome AR messup up but fine in Firefox (<strong>fixed</strong> after moming to minus)<br>
--Cant seem to get the about page with contact me form<br>
+-Cant seem to get the about page with "Contact Me" form<br>
 -Portfolio lightbox menu<br>
 
 
