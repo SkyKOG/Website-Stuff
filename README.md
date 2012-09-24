@@ -28,3 +28,11 @@ Files regarding my personal website www.skykog.com
 -Cant seem to get the about page with contact me form<br>
 -Portfolio lightbox menu<br>
 
+
+##Requirements :##
+Chrome,Firefox,IE9+,Support for running scripts
+
+
+##License :##
+<small>Copyright © 2012 Akash Devaraju akashdevaraju@gmail.com
+Available under GNU General Public License version 3</small>
