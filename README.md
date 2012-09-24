@@ -24,7 +24,7 @@ Files regarding my personal website www.skykog.com
 
 
 ##Issues :##
--Image resize dosent work in Chrome AR messup up fine in FF (fixed after moming to minus)<br>
+-Image resize dosent work in Chrome AR messup up but fine in Firefox (<strong>fixed</strong> after moming to minus)<br>
 -Cant seem to get the about page with contact me form<br>
 -Portfolio lightbox menu<br>
 
